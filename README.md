@@ -1,5 +1,5 @@
 # LaTeX Setup
-### My setup for running a multi-file (or not) LaTeX project. When any .tex file is saved, the whole document is compiled and displayed quickly.
+My setup for running a multi-file (or not) LaTeX project. When any .tex file is saved, the whole document is compiled and displayed quickly.
 
 ## Requirements
 ### Atom
