@@ -1,0 +1,6 @@
+{
+	"commands": [
+		"**/*.tex : bash /home/nimbus/latex-setup/compile_and_show_pdf.sh"
+	]
+}
+
