@@ -30,7 +30,7 @@ Clone or download this repo to `~/latex-setup`.
 ### .bashrc
 In `~/.bashrc`, add the root directory of your LaTeX project:
 ```
-export THESIS_PATH='~/path/to/thesis'
+export THESIS_PATH=~/path/to/"your thesis"
 ```
 
 ---
