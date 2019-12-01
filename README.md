@@ -55,4 +55,7 @@ Tips:
 - Use Overleaf to sync to the same Dropbox dir, making the project available there
 - Make Mendeley sync to the project's .bib file
 
-Atom theme I use: [duotone-light-syntax](https://atom.io/themes/duotone-light-syntax)
+Additional Atom packages:
+- [spell-check](https://atom.io/packages/spell-check) comes with Atom. To work with latex, go to settings and add `text.tex.latex` to "Grammars" and `.support.function.tex` to "Excluded Scopes". Also nice to enable "Add Known Words"
+- [latexer](https://atom.io/packages/latexer) for \cite and \ref completion (see "Multifile support")
+- The theme I use: [duotone-light-syntax](https://atom.io/themes/duotone-light-syntax)
