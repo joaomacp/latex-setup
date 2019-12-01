@@ -11,7 +11,7 @@ My setup for running a multi-file (or not) LaTeX project. When any .tex file is 
 - [save-commands-plus](https://atom.io/packages/save-commands-plus) to compile the PDF when files are saved
 
 ### MuPDF
-[MuPDF](https://mupdf.com/) is used to display the PDF document. It's a bit unusual, but it's very fast at reloading the PDF.
+[MuPDF](https://mupdf.com/) is used to display the PDF document. It's a bit unusual, but very fast at reloading the PDF.
 
 MuPDF main repo: [git://git.ghostscript.com/mupdf.git](https://git.ghostscript.com/?p=mupdf.git)
 
@@ -54,3 +54,5 @@ Tips:
 - Keep the project backed up by syncing the project directory in Dropbox
 - Use Overleaf to sync to the same Dropbox dir, making the project available there
 - Make Mendeley sync to the project's .bib file
+
+Atom theme I use: [duotone-light-syntax](https://atom.io/themes/duotone-light-syntax)
