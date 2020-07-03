@@ -19,6 +19,7 @@ My fork which adds mouse4 and mouse5 for previous/next page, scroll to bottom on
 
 **Installing MuPDF** (my fork)
 ```
+sudo apt install mesa-common-dev libglu1-mesa-dev freeglut3-dev libx11-dev libxrandr-dev libxi-dev
 git clone --recursive https://github.com/joaomacp/mupdf.git
 cd mupdf
 sudo make prefix=/usr/local install
