@@ -1,7 +1,15 @@
 # LaTeX Setup
-My setup for running a multi-file (or not) LaTeX project. When any .tex file is saved, the whole document is compiled and displayed quickly.
+My Linux setup for running a multi-file (or not) LaTeX project. When any .tex file is saved, the whole document is compiled and displayed quickly.
 
 ## Requirements
+### Latex distribution
+I'm using TeX Live - you can install versions containing different LaTeX packages: `texlive-latex-extra`, `texlive-full`, etc.
+
+What I used:
+```
+sudo apt install texlive-latex-extra texlive-science
+```
+
 ### Atom
 [Atom](https://atom.io/) is used to edit the project's .tex files.
 
